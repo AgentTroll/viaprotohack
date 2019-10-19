@@ -1,0 +1,9 @@
+main: com.gmail.woodyc40.viaprotohack.ViaProtoHack
+name: ViaProtoHack
+version: ${project.version}
+depend: [ ViaVersion ]
+
+commands:
+  vph:
+    description: Toggles printing packets to the console
+    usage: /vph
