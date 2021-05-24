@@ -13,7 +13,7 @@ packets prior to being processed by ViaVersion.
 # Building
 
 ``` shell
-git clone https://github.com/AgentTroll/viaprotohack.git
+git clone https://github.com/caojohnny/viaprotohack.git
 cd viaprotohack
 mvn clean install
 ```
